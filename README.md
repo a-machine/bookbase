@@ -12,7 +12,7 @@ The Book Base style is made for book designers to easily make use of multi-forma
   - Select CSS tooling for SASS and CSS variables, etc.
   - Compatibility with Fidus Writer, Vivliostyle and GitLab/Hub
   - Compatibility with Vivlioytle templates, tools, and methods for CSS typesetting
-  - W3C Compliant
+  - W3C Compliant (if possible)
 
 ## Key issues to address are:
  
@@ -24,6 +24,7 @@ The Book Base style is made for book designers to easily make use of multi-forma
   - The style would be fully commented
   - Use varaible fonts, if possible
   - Select a CSS tooling: SASS and variables etc
+  - Media queries
 
 ### Issues out of scope - but to be included in next work package
 
@@ -32,6 +33,8 @@ Note: CSS issues, but important for template: Document metadata, parts of docume
 ## Compatibilty
 
 W3C Paged Media. Version: CSS Paged Media Module Level 3 W3C Working Draft, 18 October 2018 - https://www.w3.org/TR/2018/WD-css-page-3-20181018/
+
+Vivliostyle - Supported CSS features - https://docs.vivliostyle.org/#/supported-css-features
 
 The style is designed to be compatible with the following systems: Fidus Writer Book Style and accompanying Docsify Style + GitHub/Lab template, as well as Vivliostyle CLI, and Viliostyle Create Book product for previewing purposes.
 
