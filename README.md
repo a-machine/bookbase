@@ -6,6 +6,14 @@ Description: A CSS typesetting foundation style for fully automated multi-format
 
 A multi-format CSS book style is needed for fully automated Fidus Writer multi-format outputting that further styles can be built on top of. The Book Base style needs to cover all of the layout requirements for the following multi-format outputs: PDF screen; PDF PoD (print); archive PDF, Web Docsify, Web as Paged Media (Vivliostyle), Web paged responsive (Vivliostyle), and; eBook.
 
+## Objectives
+
+Easy to customise and well commented theme for book designers
+Select CSS tooling for SASS and CSS variables
+Compatibility with Fidus Writer and GitLab/Hub
+Compatibility with Vivlioytle templates and methods
+W3C Compliant
+
 ## Key issues to address are:
  
   - Covers: Multi-format issues
