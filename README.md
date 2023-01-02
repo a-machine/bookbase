@@ -8,11 +8,11 @@ The Book Base style is made for book designers to easily make use of multi-forma
 
 ## Objectives
 
-Easy to customise and well commenting to guide book designers
-Select CSS tooling for SASS and CSS variables, etc.
-Compatibility with Fidus Writer, Vivliostyle and GitLab/Hub
-Compatibility with Vivlioytle templates, tools, and methods for CSS typesetting
-W3C Compliant
+  - Easy to customise and well commenting to guide book designers
+  - Select CSS tooling for SASS and CSS variables, etc.
+  - Compatibility with Fidus Writer, Vivliostyle and GitLab/Hub
+  - Compatibility with Vivlioytle templates, tools, and methods for CSS typesetting
+  - W3C Compliant
 
 ## Key issues to address are:
  
