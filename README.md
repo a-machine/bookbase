@@ -2,6 +2,8 @@
 
 A CSS typesetting foundation style for multi-format book publication designs - using the Fidus Writer and Vivliostyle pipeline.
 
+Code: https://github.com/a-machine/bookbase/blob/main/base.css
+
 Project: https://github.com/orgs/a-machine/projects/2/
 
 Notepad: Working notes and conclusions https://demo.hedgedoc.org/s/VI3sMPUuu
@@ -45,6 +47,8 @@ The style is designed to be compatible with the following systems: Fidus Writer 
 ## Documentation
 
 Notepad: Working notes and conclusions https://demo.hedgedoc.org/s/VI3sMPUuu
+
+References: https://www.zotero.org/groups/255662/publishing_consortium/collections/S69SRLSR
 
 
 
