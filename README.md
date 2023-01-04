@@ -1,10 +1,10 @@
-# Book Base
+# BookBase
 
 A CSS typesetting foundation style for multi-format book publication designs - using the Fidus Writer and Vivliostyle pipeline.
 
 ## The purpose of creating Book Base style
 
-The Book Base style is made for book designers to easily make use of multi-format CSS typetting. It aims to simplify the basic style settings as well as automate styling for multi-format publications from a limited set of CSS files to create layouts for: PDF screen; PDF PoD (print); archive PDF, Web Docsify, Webpub - as Paged Media (Vivliostyle), and Web paged responsive (Vivliostyle), and; eBook.
+The BookBase style is made for book designers to easily make use of multi-format CSS typetting. It aims to simplify the basic style settings as well as automate styling for multi-format publications from a limited set of CSS files to create layouts for: PDF screen; PDF PoD (print); archive PDF, Web Docsify, Webpub - as Paged Media (Vivliostyle), and Web paged responsive (Vivliostyle), and; eBook.
 
 ## Objectives
 
