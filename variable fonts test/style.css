@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'Open Sans';
+	src: url('OpenSans-VariableFont_wdth,wght.woff') format('woff') tech('variations'),
+	     url('OpenSans-VariableFont_wdth,wght.woff') format('woff-variations');
+	font-weight: 100 1000;
+	font-stretch: 25% 151%;
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	src: url('OpenSans-Italic-VariableFont_wdth,wght.woff') format('woff') tech('variations'),
+	     url('OpenSans-Italic-VariableFont_wdth,wght.woff') format('woff-variations');
+	font-weight: 100 1000;
+	font-stretch: 25% 151%;
+    font-style: italic;
+}
+
+p {
+	font-family: 'Open Sans';
+    font-weight: 800;
+}
+
+h1 {
+	font-family: 'Open Sans';
+    font-weight: 200;
+    font-style: italic;
+}
+
